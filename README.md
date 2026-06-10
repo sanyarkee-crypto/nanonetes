@@ -17,12 +17,12 @@ The system processes incoming billing documents through an AI agent to accuratel
 ### 1. AI Agent Data Extraction
 The AI Agent successfully extracts header data, totals, and individual tabular line items (Product Name, Quantity, Unit Price, Total Price) directly from the invoice PDF.
 
-<img src="path/to/your/Screenshot_(22).png" alt="AI Extraction Interface" width="800"/>
+<img src="./Screenshot_(22).png" alt="AI Extraction Interface" width="800"/>
 
 ### 2. Exported Excel Data Schema
 Once processing is complete, data is exported into a clean, key-value tabular schema separating invoice metadata, totals, and buyer information.
 
-<img src="path/to/your/Screenshot_(23).png" alt="Excel Export Results" width="800"/>
+<img src="./Screenshot_(23).png" alt="Excel Export Results" width="800"/>
 
 ---
 
